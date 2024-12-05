@@ -1,6 +1,6 @@
 package pojo;
 
-public class Tag {
+public class Tag  extends ResponseParent{
 
     private String name_tag;
     private String description;
