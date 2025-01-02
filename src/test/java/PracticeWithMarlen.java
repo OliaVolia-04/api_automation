@@ -1,17 +1,15 @@
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
-import org.apache.http.util.Asserts;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 import java.util.HashMap;
 import java.util.Map;
 
 import static org.testng.Assert.assertTrue;
 import static org.testng.AssertJUnit.assertEquals;
 
-public class APIPractice {
+public class PracticeWithMarlen {
     public static void main(String[] args) {
 
 
